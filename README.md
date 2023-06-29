@@ -1,7 +1,8 @@
 ## Hey, I'm MecryTv 👋
 
-- I like working with Python and databases
+- I like working with Python, Java & databases
 - I develop Discord bots using [Pycord](https://github.com/Pycord-Development/pycord)
+- I develop Discord bots using [Java](https://github.com/topics/java)
 
 
 ## Meine Github Stats
