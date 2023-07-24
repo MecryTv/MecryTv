@@ -2,7 +2,6 @@
 
 - I like working with Python, Java & databases
 - I develop Discord bots using [Pycord](https://github.com/Pycord-Development/pycord)
-- I develop Minecraft Plugins using [Java](https://github.com/topics/java)
 
 
 ## Meine Github Stats
