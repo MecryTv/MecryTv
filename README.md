@@ -19,8 +19,7 @@
       </a>
     </center>
 
-    - Or contact me via e-mail: [`mail.MecryTv@gmail.com`](mailto:mail.MecryTv@gmail.com)
-
+    - Or contact me via e-mail: [`mail.MecryTv@gmail.com`](https://cloudhq.net/s/fbf27bd5790e4c)
           
 ## My Cool Stats
 ![Mecry's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecrytv&show_icons=true&theme=cobalt)
