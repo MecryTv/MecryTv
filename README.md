@@ -10,10 +10,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
-<img align="left" alt="Pytghon" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="After Effects" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
-<img align="left" alt="After Effects" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg"/>
+[My Skills](https://skillicons.dev/icons?i=py,pycharm,aiosqlite,photoshop,aftereffects,premierepro,discord,github&theme=light)
 
           
 
