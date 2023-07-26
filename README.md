@@ -1,7 +1,6 @@
 ## Hey, I'm MecryTv 👋
 
-- I like working with Python, Java & databases
-- I develop Discord bots using [Pycord](https://github.com/Pycord-Development/pycord)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Discord+Bot+Developer;Using+Python++%5BPycord%5D;Worked+with+Python+%26+databases)](https://git.io/typing-svg)
 
 
 ## Meine Github Stats
