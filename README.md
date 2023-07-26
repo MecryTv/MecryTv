@@ -5,9 +5,6 @@
 - [Pycord](https://github.com/Pycord-Development/pycord)
 - [Database](https://github.com/omnilib/aiosqlite)
 
-## My Cool Stats
-![Mecry's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecrytv&show_icons=true&theme=cobalt)
-
 ## Skills & Software/Apps I use
 
 [![Skills](https://skillicons.dev/icons?i=py,sqlite,photoshop,aftereffects,premiere,illustrator,discord,github,blender,linux)](https://github.com/MecryTv)
@@ -22,7 +19,8 @@
       </a>
     </center>
 
-    - Or contact me via e-mail: [`mail.MecryTv@gmail.com`](mail.MecryTv@gmail.com)
+    - Or contact me via e-mail: [`mail.MecryTv@gmail.com`](mailto:mail.MecryTv@gmail.com)
 
           
-
+## My Cool Stats
+![Mecry's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecrytv&show_icons=true&theme=cobalt)
