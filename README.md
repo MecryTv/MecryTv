@@ -10,7 +10,7 @@
 
 ### Languages and Tools:
 
-[![Skills](https://skillicons.dev/icons?i=py,photoshop,aftereffects,premierepro,discord,github)](https://github.com/MecryTv)
+[![Skills](https://skillicons.dev/icons?i=py,photoshop,aftereffects,premierepro,discord,github,blender)](https://github.com/MecryTv)
 
           
 
