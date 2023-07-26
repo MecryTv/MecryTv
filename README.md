@@ -5,5 +5,5 @@
 - [Pycord](https://github.com/Pycord-Development/pycord)
 - [Database](https://github.com/omnilib/aiosqlite)
 
-## My Github Stats
+## My Cool Stats
 ![Mecry's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecrytv&show_icons=true&theme=cobalt)
