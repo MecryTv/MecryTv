@@ -19,7 +19,7 @@
       </a>
     </center>
 
-    - Or contact me via e-mail: [`mail.MecryTv@gmail.com`](mailto:mail.MecryTv.com?subject=Betreff%20der%20E-Mail&body=Hier%20ist%20der%20Text%20der%20E-Mail.)
+    - Or contact me via e-mail: [`mail.MecryTv@gmail.com`](mailto:mail.MecryTv.com)
           
 ## My Cool Stats
 ![Mecry's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecrytv&show_icons=true&theme=cobalt)
