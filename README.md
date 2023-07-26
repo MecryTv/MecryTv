@@ -5,9 +5,6 @@
 - [Pycord](https://github.com/Pycord-Development/pycord)
 - [Database](https://github.com/omnilib/aiosqlite)
 
- I dont tell to much
-> [![](https://visitcount.itsvg.in/api?id=MecryTv&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## Skills & Software/Apps I use
 
 [![Skills](https://skillicons.dev/icons?i=py,sqlite,photoshop,aftereffects,premiere,illustrator,discord,github,blender,linux)](https://github.com/MecryTv)
