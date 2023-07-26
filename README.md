@@ -21,5 +21,12 @@
 
     - Or contact me via e-mail: [`mail.MecryTv@gmail.com`](mailto:mail.MecryTv.com)
           
-## My Cool Stats
-![Mecry's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecrytv&show_icons=true&theme=cobalt)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MecryTv&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MecryTv&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MecryTv&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MecryTv&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
