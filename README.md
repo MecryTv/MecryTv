@@ -5,6 +5,8 @@
 - [Pycord](https://github.com/Pycord-Development/pycord)
 - [Database](https://github.com/omnilib/aiosqlite)
 
+  [![](https://visitcount.itsvg.in/api?id=MecryTv&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## Skills & Software/Apps I use
 
 [![Skills](https://skillicons.dev/icons?i=py,sqlite,photoshop,aftereffects,premiere,illustrator,discord,github,blender,linux)](https://github.com/MecryTv)
@@ -24,9 +26,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MecryTv&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MecryTv&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MecryTv&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=MecryTv&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
