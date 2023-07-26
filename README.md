@@ -10,7 +10,7 @@
 
 ### Languages and Tools:
 
-[My Skills](https://skillicons.dev/icons?i=py,pycharm,aiosqlite,photoshop,aftereffects,premierepro,discord,github&theme=light)
+[![Skills](https://skillicons.dev/icons?i=py,pycharm,aiosqlite,photoshop,aftereffects,premierepro,discord,github)](https://github.com/MecryTv)
 
           
 
