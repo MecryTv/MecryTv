@@ -15,7 +15,7 @@
 
     <center>
       <a href='https://discord.com/users/1059621019947634739'>
-        <img src=" https://discord.c99.nl/widget/theme-2/1059621019947634739.png" style='padding: 5px'>
+        <img src="https://discord.c99.nl/widget/theme-2/1059621019947634739.png" style='padding: 5px'>
       </a>
     </center>
 
