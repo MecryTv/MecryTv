@@ -18,11 +18,11 @@
 
     <center>
       <a href='https://discord.com/users/1059621019947634739'>
-        <img src="https://discord.c99.nl/widget/theme-1/1059621019947634739.png" style='padding: 5px'>
+        <img src="https://discord.c99.nl/widget/theme-2/1059621019947634739.png" style='padding: 5px'>
       </a>
     </center>
 
-    - Or contact me via e-mail: [`max1385@outlook.de`](mailto:max1385@outlook.de)
+    - Or contact me via e-mail: [`mail.MecryTv@gmail.com`](mail.MecryTv@gmail.com)
 
           
 
