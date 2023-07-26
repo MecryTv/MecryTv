@@ -8,9 +8,21 @@
 ## My Cool Stats
 ![Mecry's GitHub stats](https://github-readme-stats.vercel.app/api?username=mecrytv&show_icons=true&theme=cobalt)
 
-### Languages and Tools:
+## Skills & Software/Apps I use
 
-[![Skills](https://skillicons.dev/icons?i=py,sqlite,photoshop,aftereffects,premiere,illustrator,discord,github,blender,linux,windows)](https://github.com/MecryTv)
+[![Skills](https://skillicons.dev/icons?i=py,sqlite,photoshop,aftereffects,premiere,illustrator,discord,github,blender,linux)](https://github.com/MecryTv)
+
+## How to reach me
+
+  - Send me a direct message on [Discord](https://discord.com): [`Coding Ninja/MecryTv`](https://discord.com/users/1059621019947634739)
+
+    <center>
+      <a href='https://discord.com/users/1059621019947634739'>
+        <img src="https://discord.c99.nl/widget/theme-1/1059621019947634739.png" style='padding: 5px'>
+      </a>
+    </center>
+
+    - Or contact me via e-mail: [`max1385@outlook.de`](mailto:max1385@outlook.de)
 
           
 
