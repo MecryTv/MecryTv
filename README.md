@@ -5,7 +5,8 @@
 - [Pycord](https://github.com/Pycord-Development/pycord)
 - [Database](https://github.com/omnilib/aiosqlite)
 
-[![](https://visitcount.itsvg.in/api?id=MecryTv&icon=0&color=0)](https://visitcount.itsvg.in)
+ I dont tell to much
+> [![](https://visitcount.itsvg.in/api?id=MecryTv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Skills & Software/Apps I use
 
