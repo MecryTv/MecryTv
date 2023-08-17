@@ -1,9 +1,10 @@
 ## Hey, I'm MecryTv 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Discord+Bot+Developer;Using+Python++%5BPycord%5D;Worked+with+Python+%26+Databases)](https://github.com/MecryTv)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+App+Development;Discord+Bot+Developer;Word+with+Databases)](https://git.io/typing-svg)
 
 - [Pycord](https://github.com/Pycord-Development/pycord)
-- [Database](https://github.com/omnilib/aiosqlite)
+- [Database](https://github.com/encode/databases)
+- [Kotlin](https://github.com/JetBrains/kotlin)
 
 ## Skills & Software/Apps I use 💎
 
