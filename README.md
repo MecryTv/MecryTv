@@ -7,7 +7,7 @@
 
 ## Skills & Software/Apps I use 💎
 
-[![Skills](https://skillicons.dev/icons?i=py,sqlite,photoshop,aftereffects,premiere,illustrator,discord,github,blender,linux,vscode)](https://github.com/MecryTv)
+[![Skills](https://skillicons.dev/icons?i=py,sqlite,photoshop,aftereffects,premiere,illustrator,discord,github,blender,linux,vscode,kotlin)](https://github.com/MecryTv)
 
 ## How to Contact me 🔗
 
