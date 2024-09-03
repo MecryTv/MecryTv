@@ -1,6 +1,6 @@
 ## Hey, I'm MecryTv 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&color=8B88F8&width=435&lines=Web+Developer;Discord+Bot+Developer;Minecraft+Plugin+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&color=8B88F8&width=435&lines=Web+Developer;Discord+Bot+Developer;)](https://git.io/typing-svg)
 
 - [Pycord](https://github.com/Pycord-Development/pycord)
 - [Database](https://github.com/encode/databases)
