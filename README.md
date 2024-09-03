@@ -13,7 +13,7 @@
 
 ## How to Contact me 🔗
 
-  - Send me a direct message on [Discord](https://discord.com): [`Coding Ninja/MecryTv`](https://discord.com/users/1059621019947634739)
+  - Send me a direct message on [Discord](https://discord.com): [`MecryTv`](https://discord.com/users/1059621019947634739)
 
     <center>
       <a href='https://discord.com/users/1059621019947634739'>
