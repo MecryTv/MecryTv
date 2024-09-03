@@ -2,10 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&color=8B88F8&width=435&lines=Web+Developer;Discord+Bot+Developer;)](https://git.io/typing-svg)
 
-- [Pycord](https://github.com/Pycord-Development/pycord)
-- [Database](https://github.com/encode/databases)
+- [Discord.js](https://github.com/discordjs/discord.js)
+- [Database](https://github.com/mongodb/mongo)
 - [JavaScript](https://www.javascript.com/)
-- [Java](https://github.com/java)
 
 ## Skills & Software/Apps I use 💎
 
