@@ -1,14 +1,8 @@
 ## Hey, I'm MecryTv 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&color=8B88F8&width=435&lines=Web+Developer;Discord+Bot+Developer;)](https://git.io/typing-svg)
-
-- [Discord.js](https://github.com/discordjs/discord.js)
-- [Database](https://github.com/mongodb/mongo)
-- [JavaScript](https://www.javascript.com/)
-
 ## Skills & Software/Apps I use 💎
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,mongodb,photoshop,aftereffects,premiere,illustrator,discord,github,blender,linux,vscode)](https://github.com/MecryTv)
+[![Skills](https://skillicons.dev/icons?i=js,ts,mongodb,photoshop,aftereffects,premiere,illustrator,discord,github,blender,linux,vscode,c#)](https://github.com/MecryTv)
 
 ## How to Contact me 🔗
 
