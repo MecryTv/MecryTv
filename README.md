@@ -52,7 +52,6 @@
 
   <br/>
     <a href="https://github.com/MecryTv"><img align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="MecryTv's github stats" /></a>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
   <br/>
 </div>
 
