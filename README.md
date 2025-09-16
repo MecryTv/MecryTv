@@ -64,9 +64,11 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1059621019947634739)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.MecryTv@gmail.com)
 
-<a href='https://discord.com/users/1059621019947634739'>
-  <img src="https://discord.c99.nl/widget/theme-4/1059621019947634739.png" alt="Discord Status" style='padding: 10px'>
-</a>
+<center>
+      <a href='https://discord.com/users/1059621019947634739'>
+        <img src="https://discord.c99.nl/widget/theme-3/1059621019947634739.png" style='padding: 5px'>
+      </a>
+    </center>
 
 **Feel free to reach out for collaborations, questions, or just to chat about tech!**
 
