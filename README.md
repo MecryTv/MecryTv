@@ -51,7 +51,7 @@
    <a href="https://github.com/MecryTv"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MecryTv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="MecryTv's github stats" /></a> <a href="https://github.com/MecryTv"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MecryTv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></a>
 
   <br/>
-    <a href="https://github.com/MecryTv"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MecryTv&theme=blueberry&hide_border=false" alt="MecryTv's github streak" /></a>
+    <a href="https://github.com/MecryTv"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MecryTv&theme=blueberry&hide_border=true" alt="MecryTv's github streak" /></a>
   <br/>
 </div>
 
