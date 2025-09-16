@@ -48,7 +48,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/apiusername=MecryTv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="MecryTv's github stats"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=MecryTv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><
+   <img align="center" src="https://github-readme-stats.vercel.app/apiusername=MecryTv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="MecryTv's github stats"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=MecryTv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
   <br/>
     ![](https://github-readme-streak-stats.herokuapp.com/?user=MecryTv&theme=blueberry&hide_border=false)
