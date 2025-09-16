@@ -4,7 +4,7 @@
   
   **Full-Stack Developer | Discord Bot Creator | Minecraft Plugin Developer**
   
-  *Passionate Developer for the Web, Discord, and Minecraft*
+  *Passionate Developer for the Web, Discord and Minecraft*
 
 </div>
 
