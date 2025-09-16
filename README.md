@@ -4,7 +4,7 @@
   
   **Full-Stack Developer | Discord Bot Creator | Minecraft Plugin Developer**
   
-  *Passionate about creating innovative solutions across web, gaming, and automation*
+  *Passionate Developer for the Web, Discord, and Minecraft*
 
 </div>
 
