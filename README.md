@@ -1,17 +1,14 @@
 # Hey, I'm MecryTv! 👋
-
 <div align="center">
   
   **Full-Stack Developer | Discord Bot Creator | Minecraft Plugin Developer**
   
   *Passionate about creating innovative solutions across web, gaming, and automation*
-
 </div>
 
 ---
 
 ## 🚀 What I Build
-
 - **🤖 Discord Bots** - Custom automation and community management solutions
 - **🌐 Web Applications** - Modern, responsive websites with cutting-edge tech
 - **⛏️ Minecraft Plugins** - Custom server modifications and gameplay enhancements  
@@ -21,7 +18,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -53,9 +49,7 @@
 ---
 
 ## 🤝 How to Contact Me
-
 <div align="center">
-
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1059621019947634739)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.MecryTv@gmail.com)
 
@@ -64,7 +58,6 @@
 </a>
 
 **Feel free to reach out for collaborations, questions, or just to chat about tech!**
-
 </div>
 
 ---
