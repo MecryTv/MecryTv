@@ -49,10 +49,10 @@
 
 <div align="center">
   <a href="https://github.com/MecryTv">
-    <img src="https://github-readme-stats.vercel.app/api?username=MecryTv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="MecryTv's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MecryTv&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=1" alt="MecryTv's github stats" />
   </a>
   <a href="https://github.com/MecryTv">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MecryTv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="MecryTv's top langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MecryTv&theme=tokyonight&hide_border=true&layout=compact&v=1" alt="MecryTv's top langs" />
   </a>
 </div>
 
