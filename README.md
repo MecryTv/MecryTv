@@ -48,8 +48,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MecryTv&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MecryTv's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MecryTv&theme=tokyonight&hide_border=true&layout=compact" alt="MecryTv's top langs" />
+  <img src="https://github-readme-stats-gules-two-13.vercel.app/api?username=MecryTv&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="MecryTv's github stats" />
+  <img src="https://github-readme-stats-gules-two-13.vercel.app/api/top-langs?username=MecryTv&theme=tokyonight&hide_border=true&layout=compact" alt="MecryTv's top langs" />
 </div>
 
 ---
